@@ -4,5 +4,5 @@ function main(numOne, numTwo){
     //Only change code above this line
     return difference;
 }
-console.log(main(numOne, numTwo));
+console.log(main(15, 8));
 module.exports = main;
