@@ -1,11 +1,11 @@
 function main(){
     //Only change code below this line
-    //This is a single line JavaScript comment
-    /* document.write("This is a multi-line comment!");
-    document.write("This is a multi-line comment!");
-    document.write("This is a multi-line comment!");
-    document.write("This is a multi-line comment!");
-    document.write("This is a multi-line comment!");
+    //Here's a single line comment!
+    /* Here's a multi-line comment!
+    Here's a multi-line comment!
+    Here's a multi-line comment!
+    Here's a multi-line comment!
+    Here's a multi-line comment!
      */
     //Only change code above this line
     
